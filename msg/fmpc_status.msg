@@ -1,0 +1,11 @@
+float64[3]   com_position
+float64[3]   com_velocity_body_frame 
+float64[3]   com_roll_pitch_yaw
+float64[3]   com_roll_pitch_yaw_rate
+float64[40]   contact_estimates
+float64[12]   foot_position_in_base_frame
+float64[4]   friction_coeffs
+float64[3]   desired_com_position
+float64[3]   desired_com_velocity
+float64[3]   desired_com_roll_pitch_yaw
+float64[3]   desired_com_angular_velocity
